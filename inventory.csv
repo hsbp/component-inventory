@@ -187,4 +187,15 @@ H;7;3;MAC97A8;Triac 600V 0.8A Igt=5mA;;;
 H;8;1;BC547B;;;;
 H;8;2;IRF530N;;;;
 H;8;3;1N4001;;;;
-
+I;1;1;KTY84-130;Temperature sensor 300°C
+I;1;2;YIC14.31818;Crystal 14.31818 MHz
+I;1;3;;LED blue 5mm transp.;;;
+I;2;1;;LED white 5mm 30°;;;
+I;2;2;;LED green 5mm diff.;;;
+I;2;3;;LED blue 5mm diff.;;;
+I;3;1;;LED yellow 5mm transp.;;;
+I;3;2;LED5-P-LC;LED pink 5mm 30° diff.;;;
+I;3;3;;LED yellow 3mm transp.;;;
+I;4;1;;LED blue 3mm transp.;;;
+I;4;2;;LED red-green 3mm CC diffuse;;;
+I;4;3;;;;;;
