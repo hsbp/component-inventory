@@ -198,4 +198,4 @@ I;3;2;LED5-P-LC;LED pink 5mm 30° diff.;;;
 I;3;3;;LED yellow 3mm transp.;;;
 I;4;1;;LED blue 3mm transp.;;;
 I;4;2;;LED red-green 3mm CC diffuse;;;
-I;4;3;;;;;;
+I;4;3;VT43N1;Photoresistor;;;
