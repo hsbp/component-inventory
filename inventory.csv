@@ -200,3 +200,5 @@ I;4;1;;LED blue 3mm transp.;;;
 I;4;2;;LED red-green 3mm CC diffuse;;;
 I;4;3;VT43N1;Photoresistor;;;
 J;2;2;78L05;5V regulator;50;3
+J;2;3;;LED SMD yellow 0805;10;2;
+
