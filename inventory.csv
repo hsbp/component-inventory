@@ -79,7 +79,7 @@ D;3;2;HCF4093BE;;;;
 D;3;3;LM324N;;;;
 D;4;1;USBA-W;USB A plug;;;
 D;4;2;A-USBPA-HOOD-N;USB-A plug plastic cover;;;
-D;4;3;ACS108-5SA;AC switch 500V 0,8A Igt: 10mA;;;
+D;4;3;ACS108-5SA;AC switch 500V 0.8A Igt: 10mA;;;
 D;5;1;LL-504WM-W2-1C;LED 5mm white diff. 2-4 cd 50°;;;
 D;5;2;NEON-7;Neon glow lamp green 105VDC/80VAC 6X12mm;;;
 D;5;3;NEON-6;Neon glow lamp green 105VDC/80VAC 4X10mm;;;
