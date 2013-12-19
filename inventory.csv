@@ -165,7 +165,7 @@ G,8,1,BY255,,,0,http://www.alldatasheet.com/datasheet-pdf/pdf/59683/EIC/BY255.ht
 G,8,2,,push button big,,,
 G,8,3,,push button big,,,
 H,1,1,1N4007,PLASTIC SILICON RECTIFIER,,,
-H,1,1N4154,SILICON EPITAXIAL PLANAR DIODE,,,
+H,1,2,1N4154,SILICON EPITAXIAL PLANAR DIODE,,,
 H,1,3,BB119,Variable capacitance diode,,,
 H,2,1,IN5397,PLASTIC SILICON RECTIFIER,,,
 H,2,2,PIC24FJ64GA002,,,
