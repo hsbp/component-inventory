@@ -200,5 +200,14 @@ I,3,3,,LED yellow 3mm transp.,,,
 I,4,1,,LED blue 3mm transp.,,,
 I,4,2,,LED red-green 3mm CC diffuse,,,
 I,4,3,VT43N1,Photoresistor,,,
+I,5,1,L-53F3C,Infra LED,,,http://www.alldatasheet.com/datasheet-pdf/pdf/89554/KINGBRIGHT/L-53F3C.html
+I,5,2,KM-4457F3C,Infra LED sidelock,,,http://www.alldatasheet.com/datasheet-pdf/pdf/113614/KINGBRIGHT/KM-4457F3C.html
+I,5,3,IN5399,PLASTIC SILICON RECTIFIER,,,http://www.alldatasheet.com/datasheet-pdf/pdf/329390/CHENG-YI/IN5399.html
+I,6,1,CSTLS8M00G53,Ceramic Resonator,,,http://www.alldatasheet.com/datasheet-pdf/pdf/533474/MURATA/CSTLS8M00G53-B0.html
+I,6,2,TS7805CZ,3-Terminal Fixed Positive Voltage Regulator,,,http://www.alldatasheet.com/datasheet-pdf/pdf/100156/ETC/TS7805CZ.html
+I,6,3,K2843,N Channel MOS Type Chopper Regulator, DC−DC Converter and Motor Drive Applications,,,http://www.alldatasheet.com/datasheet-pdf/pdf/213245/TOSHIBA/2SK2843_06.html
+I,7,1,T 3.15A 250V, fuse biztosíték,,,
+I,7,2,CD4021BE,CMOS 8-Stage Static Shift Registers,,,http://www.alldatasheet.com/datasheet-pdf/pdf/114742/TI/CD4021BE.html
+I,7,3,Glimm izzó,,,,
 J,2,2,78L05,5V regulator,50,3,
 J,2,3,,LED SMD yellow 0805,10,2,
