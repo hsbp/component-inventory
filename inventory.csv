@@ -205,9 +205,20 @@ I,5,2,KM-4457F3C,Infra LED sidelock,,,http://www.alldatasheet.com/datasheet-pdf/
 I,5,3,IN5399,PLASTIC SILICON RECTIFIER,,,http://www.alldatasheet.com/datasheet-pdf/pdf/329390/CHENG-YI/IN5399.html
 I,6,1,CSTLS8M00G53,Ceramic Resonator,,,http://www.alldatasheet.com/datasheet-pdf/pdf/533474/MURATA/CSTLS8M00G53-B0.html
 I,6,2,TS7805CZ,3-Terminal Fixed Positive Voltage Regulator,,,http://www.alldatasheet.com/datasheet-pdf/pdf/100156/ETC/TS7805CZ.html
-I,6,3,K2843,N Channel MOS Type Chopper Regulator, DC−DC Converter and Motor Drive Applications,,,http://www.alldatasheet.com/datasheet-pdf/pdf/213245/TOSHIBA/2SK2843_06.html
+I,6,3,K2843,N Channel MOS Type Chopper Regulator DC−DC Converter and Motor Drive Applications,,,http://www.alldatasheet.com/datasheet-pdf/pdf/213245/TOSHIBA/2SK2843_06.html
 I,7,1,T 3.15A 250V, fuse biztosíték,,,
 I,7,2,CD4021BE,CMOS 8-Stage Static Shift Registers,,,http://www.alldatasheet.com/datasheet-pdf/pdf/114742/TI/CD4021BE.html
 I,7,3,Glimm izzó,,,,
+I,8,1,,16MHz quarz,,,,
+I,8,2,,IC socket 28 ROHS DIP28,,,
+I,8,3,MC7809CT, THREE-TERMINAL POSITIVE FIXED VOLTAGE REGULATORS,,,http://www.alldatasheet.com/datasheet-pdf/pdf/12416/ONSEMI/MC7809CTG.html
+J,1,1,,IC socket 20,,,
+J,1,2,LM329DZ, Precision Reference,,,http://www.alldatasheet.com/datasheet-pdf/pdf/8633/NSC/LM329DZ.html
+J,1,3,BZX85C,Z-Diodes,,,http://www.alldatasheet.com/datasheet-pdf/pdf/26328/VISHAY/BZX85C.html
+J,2,1,,USB csatlakozo,,,
 J,2,2,78L05,5V regulator,50,3,
 J,2,3,,LED SMD yellow 0805,10,2,
+J,3,1,2N2218,NPN tranzisztor,,,http://www.alldatasheet.com/view.jsp?Searchword=2N2218
+J,3,2,TBA222,,,,
+J,3,3,KBPC2504,?????10A/15A/25A/35A SINGLE - PHASE SILICON BRIDGE?????,,,http://www.alldatasheet.com/view.jsp?Searchword=KBPC2504
+J,4,1,4154,Érintéskapcsoló?,,,
