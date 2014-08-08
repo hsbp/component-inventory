@@ -209,7 +209,7 @@ I,6,3,K2843,N Channel MOS Type Chopper Regulator DC−DC Converter and Motor Dri
 I,7,1,T 3.15A 250V, fuse biztosíték,,,
 I,7,2,CD4021BE,CMOS 8-Stage Static Shift Registers,,,http://www.alldatasheet.com/datasheet-pdf/pdf/114742/TI/CD4021BE.html
 I,7,3,Glimm izzó,,,,
-I,8,1,,16MHz quarz,,,,
+I,8,1,,16MHz quarz,,,
 I,8,2,,IC socket 28 ROHS DIP28,,,
 I,8,3,MC7809CT, THREE-TERMINAL POSITIVE FIXED VOLTAGE REGULATORS,,,http://www.alldatasheet.com/datasheet-pdf/pdf/12416/ONSEMI/MC7809CTG.html
 J,1,1,,IC socket 20,,,
