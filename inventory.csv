@@ -223,3 +223,8 @@ J,3,2,TBA222,,,,
 J,3,3,KBPC2504,?????10A/15A/25A/35A SINGLE - PHASE SILICON BRIDGE?????,,,http://www.alldatasheet.com/view.jsp?Searchword=KBPC2504
 J,4,1,1N4154,Dióda,,,
 J,4,2,DS1820,1-Wire Temperature sensor,,,
+J,4,3,IRF9540N,Power MOSFET,,,
+J,5,1,TDA2030,14W Hi-Fi AUDIO AMPLIFIER,,,
+J,5,2,IRLZ34N,HEXFET POWER MOSFET,,,
+J,5,3,IRF5305,Power MOSFET,,,
+J,6,1,,saru,,,
